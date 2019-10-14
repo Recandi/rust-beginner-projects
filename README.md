@@ -32,8 +32,9 @@ To view documentation, run `cargo doc --open`
 - [ ] Change Calculator
 - [ ] Mean, Median, and Mode
 - [ ] Higher Lower Guessing Game
-- [ ] Multiplication Table
-- [ ] Fibonacci Sequence
+- [x] Multiplication Table
+- [x] Fibonacci Sequence
+  - [x] Recursive version
 - [ ] Base Jumper
 - [ ] Hangman Game
 - [ ] Menu Calculator
