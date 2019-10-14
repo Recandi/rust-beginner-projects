@@ -32,8 +32,9 @@
 //! - [ ] Change Calculator
 //! - [ ] Mean, Median, and Mode
 //! - [ ] Higher Lower Guessing Game
-//! - [ ] Multiplication Table
-//! - [ ] Fibonacci Sequence
+//! - [x] Multiplication Table
+//! - [x] Fibonacci Sequence
+//!   - [x] Recursive
 //! - [ ] Base Jumper
 //! - [ ] Hangman Game
 //! - [ ] Menu Calculator
@@ -77,4 +78,8 @@ pub mod coin_estimator_by_weight;
 /// Mad Libs Story Maker Solution
 pub mod mad_libs;
 
+///multiplication table Solution
 pub mod multiplication_table;
+
+///fibonacci solution + recursive version
+pub mod fibonacci;
