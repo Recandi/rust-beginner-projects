@@ -76,3 +76,5 @@ pub mod coin_estimator_by_weight;
 
 /// Mad Libs Story Maker Solution
 pub mod mad_libs;
+
+pub mod multiplication_table;
