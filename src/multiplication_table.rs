@@ -1,3 +1,4 @@
+///Prints nicely formatted multiplication table to the console
 pub fn multiply(){
     print!(" ");
     for i in 0..10{
